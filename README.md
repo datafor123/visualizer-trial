@@ -1,2 +1,0 @@
-# visualizer-trial
-visualizer-trial
